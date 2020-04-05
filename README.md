@@ -3,5 +3,10 @@
 
 <p>Homework01</p>
 -Contains 3d model of vase and keychain
+<p></p>
+<p>Homework02</p>
+-Contains model 1-4 in stl format
+<p></p>
+-Contains ring from thingiverse + Ring modified by me
 
 
