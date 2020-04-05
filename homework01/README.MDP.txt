@@ -1,0 +1,1 @@
+I've encluded the keychain and the vase in stl format and screenshots from the slicer.
