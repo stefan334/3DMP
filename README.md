@@ -11,5 +11,12 @@
 <p></p>
 -Contains model 1-4 in f3d format
 <p></p>
+<p>Homework03</p>
+<p></p>
+-Contains the pawn, rook, bishop, knight, king and queen chess pieces in stl format as well as f3d
+<p></p>
+-Contains a screenshot from prusa slicer with all the chess pieces sliced
+<p></p>
+-Contains gcode for sliced pieces
 
 
